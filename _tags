@@ -1,0 +1,3 @@
+<xmap/test_xmap.*>: use_bigarray, use_nums, use_sexplib
+<*/*.byte>: debug
+<{xmap/xmap.*,xset/xset.*}>: camlp4o, use_sexplib, use_sexplib.syntax

@@ -1,0 +1,9 @@
+- These are versions of Ocaml's standard Set and Map modules written
+  by Xavier Leroy, modified by Berke Durak:
+    - Sexplib-converters added
+    - Unfunctorized Map and Set
+    - Added some missing functions (iter, reverse_iter,pairs, min_key...)
+
+- Needs Markus Mottl's Sexplib and its preprocessor
+
+- License: LGPL
